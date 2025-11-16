@@ -1,0 +1,5 @@
+﻿Project: DevConnect
+Short description: React portfolio / demo app.
+Run:
+1) npm install
+2) npm run dev
